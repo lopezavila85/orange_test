@@ -1,0 +1,10 @@
+CREATE EXTERNAL TABLE IF NOT EXISTS birthday (
+  id INT,
+  birth_date STRING
+)
+COMMENT 'Birthdays table'
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY ','
+LINES TERMINATED BY '\n'
+STORED AS TEXTFILE
+LOCATION '/user/cloudera/orange/birthday'

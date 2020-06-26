@@ -1,0 +1,10 @@
+email,numPosts,yearSignup,referred,ipAddress
+aaaaa@gmail.com,10101,1990,m1|m2|m3,10.0.0.1
+aaaaa@hotmail.com,505,2000,m4,10.0.0.2
+aaaaa@yahoo.com,1000,1999,m4|m6,10.0.1.3
+bbbbb@gmail.com,20101,1991,m1|m2|m3|m7|m77,192.168.1.1
+bbbbb@hotmail.com,505,2000,m44,192.168.1.2
+bbbbb@yahoo.com,1000,1999,m4|m6,192.168.1.3
+ccccc@gmail.com,10000,1994,m10,224.220.1.1
+ccccc@hotmail.com,505,1992,m11,224.220.3.2
+ccccc@yahoo.com,9999,2000,m12,224.220.2.3
